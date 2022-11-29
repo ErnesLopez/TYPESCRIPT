@@ -1,11 +1,19 @@
 {
   "name": "typescript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -p 8436"
+    "start": "http-server -p 8456"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnesLopez/TYPESCRIPT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ErnesLopez/TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/ErnesLopez/TYPESCRIPT#readme",
+  "description": ""
 }
